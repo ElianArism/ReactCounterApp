@@ -1,6 +1,6 @@
-## Counter App 
+# Counter App 
 Simple Counter App made in React
 
-# Commands
+## Commands
 * npm i 
 * npm start
