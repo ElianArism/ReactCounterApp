@@ -1,4 +1,3 @@
-
 /**
  * Import for tests dom components
  */

@@ -46,6 +46,4 @@ describe('CounterApp', () => {
 
     expect(counterText).toBe('10')
   })
-
-
 })
